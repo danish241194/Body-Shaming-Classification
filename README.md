@@ -32,5 +32,3 @@ The dataset consists of text, collected mainly from Instagram posts. The posts w
 ### DL models
 ![Results](./dl_results.png)
 
-### Link to project demo
-http://www.example.com
